@@ -1,1 +1,1 @@
-Basketball Scoreboard with cahnges made to the scoreboard number colors.
+Basketball scoreboard with changes made to the scoreboard number colors.
